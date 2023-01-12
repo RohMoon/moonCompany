@@ -33,6 +33,7 @@ dependencies {
     testImplementation ("org.springframework.security:spring-security-test")
 
     implementation ("com.querydsl:querydsl-jpa")
+    implementation ("com.h2database:h2")
     // https://mvnrepository.com/artifact/net.coobird/thumbnailator
 }
 
